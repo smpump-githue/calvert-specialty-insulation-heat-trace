@@ -20,4 +20,4 @@ User-agent: bingbot
 Allow: /
 
 # SITE-URL (5 of 6): change this when the domain changes.
-Sitemap: https://calvert-specialty-insulation-heat-trace.smpump.workers.dev/sitemap.xml
+Sitemap: https://calvertspecialty.com/sitemap.xml
