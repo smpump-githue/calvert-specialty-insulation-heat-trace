@@ -1,0 +1,14 @@
+# Files Cloudflare must NOT put on the public website.
+# Same format as .gitignore. (_headers and _redirects are read by Cloudflare, never shown.)
+.git
+.gitignore
+.assetsignore
+.wrangler
+wrangler.jsonc
+README.md
+node_modules
+
+# Working files kept in this folder but not part of the website
+csc-ad-final.pdf
+icon-heat-trace.png
+icon-insulation.png

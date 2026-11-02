@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects. Like _headers, this file itself is never shown to visitors.
+# README.md is for you, not the public. Send anyone who requests it to the home page.
+/README.md  /  301
+/readme.md  /  301

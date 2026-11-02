@@ -1,0 +1,49 @@
+# Calvert Specialty Contracting LLC
+
+> Specialty subcontractor providing commercial mechanical insulation and heat tracing across the Washington, DC and Baltimore metro areas and Northern Virginia. Works primarily as a subcontractor to mechanical contractors (HVAC, piping, plumbing, and sheet metal), and also directly for general contractors, construction managers, building owners, and facility managers. One subcontractor for both insulation and heat tracing.
+
+## Key facts
+
+- **Legal name:** Calvert Specialty Contracting LLC
+- **Type:** Commercial specialty subcontractor (commercial and institutional buildings)
+- **Based in:** Northern Calvert County, Maryland
+- **Service area:** Washington, DC and Baltimore metropolitan areas, and Northern Virginia
+- **Experience:** More than 17 years of mechanical insulation experience in the DC / Baltimore market
+- **Phone:** (301) 686-7967
+- **Email:** info@calvertspecialty.com
+- **How to engage:** Contractors can send bid invitations, plans, and specifications. Owners and facility managers can call for repairs, replacements, upgrades, or a site visit.
+
+## Services
+
+### Mechanical Insulation
+- Piping insulation: HVAC, steam, condensate, plumbing, and process
+- Ductwork insulation: duct wrap, rigid board, and closed-cell
+- Equipment insulation: tanks, pumps, chillers, air separators, and other equipment
+- Metal, PVC, and cloth jacketing
+- Weatherproof insulation for exposed and outdoor systems
+- Vapor barriers, mastics, and finishes
+
+### Heat Tracing
+- Self-regulating electric heat trace cable for freeze protection
+- Process temperature maintenance
+- Grease waste and kitchen drain lines, kept warm so grease does not congeal and clog the line
+- Heat tracing for piping, tanks, and equipment
+- Controls and system labeling
+- Cable resistance testing before and after insulation, with documented results
+
+## Specification sections priced (CSI MasterFormat)
+
+- 22 07 00 Plumbing Insulation
+- 23 07 00 HVAC Insulation
+- 22 05 33 / 23 05 33 Heat Tracing for Piping
+
+## Not offered on this site
+
+Residential work (decks, carpentry, basements, land clearing) is handled through the company's separate residential website, linked in the footer of this site.
+
+## Pages
+
+- [Home](/): Services, who we work for, why work with us, and contact form
+- [Services](/#services): Scope details for both service lines
+- [Who we work for](/#who-we-work-for): Customers, specification sections, and service area
+- [Contact](/#contact): Bid invitation and request form, phone, and email

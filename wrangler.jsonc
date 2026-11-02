@@ -1,0 +1,13 @@
+// Cloudflare Workers settings for this site. Cloudflare reads this file on every deploy.
+// The site is plain files: no build step, no server code.
+{
+  "name": "calvert-specialty-insulation-heat-trace",
+  "compatibility_date": "2026-10-12",
+  "observability": { "enabled": true },
+  "assets": {
+    // Serve the files in this folder. Anything listed in .assetsignore is left out.
+    "directory": ".",
+    // Mistyped or old links show 404.html with a real "not found" status.
+    "not_found_handling": "404-page"
+  }
+}

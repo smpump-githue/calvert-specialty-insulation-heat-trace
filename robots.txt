@@ -1,0 +1,23 @@
+# All search engines and AI tools are welcome to read this site.
+User-agent: *
+Allow: /
+
+# AI crawlers, listed by name so it's clear they are allowed.
+# (The rule above already allows them. This makes it explicit.)
+# NOTE: Cloudflare has its own "block AI bots" settings that can override this file.
+# See README "Getting found by search engines and AI tools".
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: bingbot
+Allow: /
+
+# SITE-URL (5 of 6): change this when the domain changes.
+Sitemap: https://calvert-specialty-insulation-heat-trace.smpump.workers.dev/sitemap.xml
